@@ -6,6 +6,7 @@
                 is to create custom vectors using c++ which behaves in similar manner to the standard
                 vectors introduced in c++11.The project consists some basic operations for vectors for
                 only integers right now.
+                
                 The entire project is created in Microsoft Visual Studio 2017, so anyone having MVS
                 can directly view it by opening selfVector.sln. But the one not having having MVS I
                 strongly recommend to install it as it seems very professional to work with and is
